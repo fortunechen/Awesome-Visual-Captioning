@@ -187,14 +187,10 @@
 - Bridging by Word: Image Grounded Vocabulary Construction for Visual Captioning  [[paper]](https://www.aclweb.org/anthology/P19-1652.pdf)  
   *Zhihao Fan, Zhongyu Wei, Siyuan Wang and Xuanjing Huang*
 
-- Bridging by Word: Image Grounded Vocabulary Construction for Visual Captioning  [[paper]](https://www.aclweb.org/anthology/P19-1652.pdf)  
-  *Zhihao Fan, Zhongyu Wei, Siyuan Wang and Xuanjing Huang*
-
 - Generating Question Relevant Captions to Aid Visual Question Answering  [[paper]](https://www.aclweb.org/anthology/P19-1348.pdf)  
   *Jialin Wu, Zeyuan Hu and Raymond Mooney*
 
-- Bridging by Word: Image Grounded Vocabulary Construction for Visual Captioning  [[paper]](https://www.aclweb.org/anthology/P19-1652.pdf)  
-  *Zhihao Fan, Zhongyu Wei, Siyuan Wang and Xuanjing Huang*
+
 
 ### NeurIPS-2019
 
