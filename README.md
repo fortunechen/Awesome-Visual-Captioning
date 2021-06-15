@@ -33,6 +33,7 @@
 **Video Captioning**
 - Open-Book Video Captioning With Retrieve-Copy-Generate Network. [[paper]](https://arxiv.org/pdf/2103.05284.pdf)  
 - Towards Diverse Paragraph Captioning for Untrimmed Videos.  [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Song_Towards_Diverse_Paragraph_Captioning_for_Untrimmed_Videos_CVPR_2021_paper.pdf) 
+- Sketch, Ground, and Refine: Top-Down Dense Video Captioning. [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Deng_Sketch_Ground_and_Refine_Top-Down_Dense_Video_Captioning_CVPR_2021_paper.pdf)
 
 ### AAAI-2021  
 **Image Captioning**   
