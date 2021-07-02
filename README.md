@@ -1,7 +1,8 @@
 # Awesome-Visual-Captioning[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Table of Contents
-- [release papers CVPR-2021](#CVPR-2021)
+- [ACL-2021](#ACL-2021)
+- [CVPR-2021](#CVPR-2021)
 - [AAAI-2021](#AAAI-2021)
 - [ACMMM-2020](#ACMMM-2020)
 - [NeurIPS-2020](#NeurIPS-2020)
@@ -16,6 +17,19 @@
 - [AAAI-2019](#AAAI-2019)
 
 ## Paper Roadmap
+### ACL-2021
+**Image Captioning**
+- Control Image Captioning Spatially and Temporally.
+- Enhancing Descriptive Image Captioning with Natural Language Inference
+- UMIC: An Unreferenced Metric for Image Captioning via Contrastive Learning
+- Semantic Relation-aware Difference Representation Learning for Change Captioning
+- SMURF: SeMantic and linguistic UndeRstanding Fusion for Caption Evaluation via Typicality Analysis
+
+**Video Captioning**
+- Hierarchical Context-aware Network for Dense Video Event Captioning
+- Video Paragraph Captioning as a Text Summarization Task
+- O2NA: An Object-Oriented Non-Autoregressive Approach for Controllable Video Captioning
+
 ### CVPR-2021
 **Image Captioning**  
 - Connecting What to Say With Where to Look by Modeling Human Attention Traces. [[paper]](https://arxiv.org/pdf/2105.05964.pdf) [[code]](https://github.com/facebookresearch/connect-caption-and-trace)  
