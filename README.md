@@ -1,6 +1,7 @@
 # Awesome-Visual-Captioning[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Table of Contents
+- [IJCAI-2021](#IJCAI-2021)
 - [ACL-2021](#ACL-2021)
 - [CVPR-2021](#CVPR-2021)
 - [AAAI-2021](#AAAI-2021)
@@ -17,6 +18,15 @@
 - [AAAI-2019](#AAAI-2019)
 
 ## Paper Roadmap
+### IJCAI-2021
+**Image Captioning**
+- Perturb, Predict & Paraphrase: Semi-Supervised Learning using Noisy Student for Image Captioning. [[paper](https://www.ijcai.org/proceedings/2021/0105.pdf)]
+- TCIC: Theme Concepts Learning Cross Language and Vision for Image Captioning. [[paper](https://www.ijcai.org/proceedings/2021/0091.pdf)]
+- Dependent Multi-Task Learning with Causal Intervention for Image Captioning. [[paper](https://www.ijcai.org/proceedings/2021/0312.pdf)]
+
+**Video Captioning**
+- Weakly Supervised Dense Video Captioning via Jointly Usage of Knowledge Distillation and Cross-modal Matching. [[paper](https://www.ijcai.org/proceedings/2021/0160.pdf)]
+
 ### ACL-2021
 **Image Captioning**
 - Control Image Captioning Spatially and Temporally.
